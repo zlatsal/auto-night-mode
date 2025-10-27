@@ -37,16 +37,6 @@ The background and text color will automatically switch based on your local sunr
 
 ---
 
-## 📂 File Structure
-
-```
-auto-night-mode/
-├── index.html     # Complete working example
-└── README.md      # Project documentation
-```
-
----
-
 ## ⚙️ Installation & Usage
 
 1. Clone or download this repository:
