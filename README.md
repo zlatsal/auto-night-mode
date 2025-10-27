@@ -52,7 +52,7 @@ auto-night-mode/
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/auto-night-mode.git
+   git clone https://github.com/zlatsal/auto-night-mode.git
    ```
 2. Open `index.html` in your browser — no build step or server required.
 3. Allow location access when prompted.
